@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+.hero_area {
+    background: #007bff;
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+}
+.login-container {
+    margin-top: 50px;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.image-container {
+    max-width: 500px; 
+}
